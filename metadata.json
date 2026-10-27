@@ -1,0 +1,6 @@
+{
+  "name": "Mimi the Purple Kitten",
+  "description": "An interactive 2D virtual pet game featuring Mimi, a cute purple kitten. Walk around, feed her lunch, put her to sleep, give her a shower, and play exciting mini-games to earn coins!",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
